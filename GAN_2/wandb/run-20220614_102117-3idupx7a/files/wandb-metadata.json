@@ -1,0 +1,21 @@
+{
+    "os": "macOS-12.2-arm64-arm-64bit",
+    "python": "3.9.13",
+    "heartbeatAt": "2022-06-14T01:21:19.202761",
+    "startedAt": "2022-06-14T01:21:17.968701",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "chapter2_Autoencodser-jvsc-851121eb-7e0e-4420-9c09-80cd571c0b82.ipynb",
+    "root": "/Users/ramg/Desktop/project3",
+    "git": {
+        "remote": "https://github.com/BeomgiSo/GAN.git",
+        "commit": "a7b68fd16de7bac3d5c344757d1cca61baf84ea0"
+    },
+    "email": "beomgi0613@yonsei.ac.kr",
+    "host": "Ramgui-M1-pro.local",
+    "username": "ramg",
+    "executable": "/Users/ramg/miniforge3/envs/tensor-mac/bin/python"
+}
